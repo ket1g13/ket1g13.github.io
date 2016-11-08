@@ -1,0 +1,25 @@
+/* Artfully created by Kerry */
+
+body {
+	font-family: verdana, arial, sans-serif, helvetica;
+	font-weight: normal;
+	font-size: 14px;
+	position: relative;
+	font-color: green;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 24px;	
+}
+
+footer {
+	position: absolute;
+	background-color: #326872;
+	color: white;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin-bottom: 1%;
+}
+
