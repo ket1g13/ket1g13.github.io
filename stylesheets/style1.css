@@ -5,18 +5,19 @@ body {
 	font-weight: normal;
 	font-size: 14px;
 	position: relative;
-	color: green;
+	color: #A0522D;
+	background-color: #FFDEAD;
 }
 
 h3 {
 	font-weight: bold;
 	font-size: 24px;
-	color: red;	
+	color: black;	
 }
 
 footer {
 	position: absolute;
-	background-color: #326872;
+	background-color: #A0522D;
 	color: white;
 	bottom: 0;
 	left: 0;
